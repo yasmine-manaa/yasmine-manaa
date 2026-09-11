@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-ICT Engineering Student at Sup'Com, passionnée par l'Intelligence Artificielle, le Machine Learning et le développement d'applications mobiles. Je me spécialise dans l'intégration d'outils IA dans les applications web et mobile pour créer des solutions AI-powered innovantes.
+Final-year ICT Engineering Student at Sup'Com, passionnée par l'Intelligence Artificielle, le Machine Learning et le développement d'applications mobiles. Je me spécialise dans l'intégration d'outils IA dans les applications web et mobile pour créer des solutions AI-powered innovantes.
 
 - 🎓 ICT Engineering Student at Sup'Com
 - 🤖 Passionnée par l'IA, Machine Learning et Deep Learning
@@ -63,8 +63,6 @@ Application mobile complète utilisant l'IA pour détecter les failles de sécur
 
 **Technologies :** Flutter, NestJS, PostgreSQL, Redis, Docker, Groq API
 
-[🔗 Voir le projet](https://github.com/yasmine-manaa/recon-copilot)
-
 ### 🚗 Carshare
 **Application Mobile de Covoiturage**
 
@@ -106,17 +104,9 @@ Développement de solutions d'agentic AI pour automatiser et optimiser les proce
 - 💻 Open Source et contribution communautaire
 - 🎯 Innovation technologique et projets innovants
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmine-manaa&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmine-manaa&layout=compact&theme=dracula)
 
 ## 📱 Me Contacter
-
-- 📧 Email : [votre-email@example.com]
-- 💼 LinkedIn : [votre-profil-linkedin]
-- 🐙 GitHub : [yasmine-manaa](https://github.com/yasmine-manaa)
+- 📧 Email : yasmine.manaa@supcom.com
 
 ---
 
-⚡ **"La sécurité n'est pas un produit, c'est un processus."** - Bruce Schneier
